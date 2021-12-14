@@ -1,4 +1,4 @@
-# SFSRNet_Audio_samples
+# SFSRNet-Audio-samples
 
 Two speaker speech separation using the SFSRNet. Audio samples are from the Libri2Mix noisy dataset which inclues background noise. There are 5 audio samples.
 
